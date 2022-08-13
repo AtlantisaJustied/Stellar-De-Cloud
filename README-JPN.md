@@ -12,14 +12,28 @@
 - Genshin Impact v2.8.0 
 
 - Genshin Impact v2.8.51(52,53)※1 
-###### ※1：Genshin Impact v2.8.5xは
+###### ※1：Genshin Impact v2.8.5x:運用上の問題が発生したため、サポートを停止する必要があります。 そのため、私たちのサーバーでゲームをプレイすることはできません。申し訳ありません。(translated with GOOGLE)
 ---
-在我们的服务器，你可以和你的好友一起联机！
+私たちのサーバーはCO-OPをサポートしています！
+
+あなたの友達があなたの友達とつながることを可能にします。
+
 ### Minecraftだけどなく、原神もできる！
-你只需要输入一行神秘代码 
+このコマンドを「server」に入力しますだけ、 
 
 > `/coop [userUID]`
 
-输入这条命令，可以使你强制进入好友的世界。
+入力します後，友達の世界に入ることができます。
 
-userUID就是你的好友的UID，它会在右下角显示，跟原版一样。
+userUIDはあなたの友達のUIDです。
+
+
+
+
+---
+
+[简体中文](Stellar-De-Cloud/README-CHS.md)
+日本語
+[English](Stellar-De-Cloud/READMEーENG.md)
+
+

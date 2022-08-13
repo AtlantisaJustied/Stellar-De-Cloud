@@ -1,7 +1,7 @@
 # Project Stellar-De-Cloud:star::cloud:
 ### 亦称“星云计划”~~星之归来~~ 是基于[Grasscutter](https://github.com/Grasscutters/Grasscutter)技术所衍生的提供一些心得的地方。
 ### 交流群号[751458214](https://jq.qq.com/?_wv=1027&k=WcjiTs3p)
-### 捐赠渠道[:sparkling_heart:点我捐赠:sparkling_heart:](https://afdian.net/@RachJusies)
+### 捐赠渠道[:sparkling_heart:点我捐赠:sparkling_heart:](https://github.com/AtlantisaJustied/Stellar-De-Cloud/blob/main/%E6%8D%90%E8%B5%A0%E6%B8%A0%E9%81%93.md)
 ---
 我们有自己的服务器 支持
 - Minecraft Bedrock Edition 

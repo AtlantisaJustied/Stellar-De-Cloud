@@ -20,3 +20,13 @@
 输入这条命令，可以使你强制进入好友的世界。
 
 userUID就是你的好友的UID，它会在右下角显示，跟原版一样。
+
+
+
+
+---
+
+简体中文
+[日本語](https://github.com/AtlantisaJustied/Stellar-De-Cloud/blob/main/README-JPN.md)
+[English](https://github.com/AtlantisaJustied/Stellar-De-Cloud/blob/main/README%E3%83%BCENG.md)
+

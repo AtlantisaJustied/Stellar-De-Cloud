@@ -32,8 +32,8 @@ userUIDはあなたの友達のUIDです。
 
 ---
 
-[简体中文](Stellar-De-Cloud/README-CHS.md)
+[简体中文](https://github.com/AtlantisaJustied/Stellar-De-Cloud/blob/main/README-CHS.md)
 日本語
-[English](Stellar-De-Cloud/READMEーENG.md)
+[English](https://github.com/AtlantisaJustied/Stellar-De-Cloud/blob/main/README%E3%83%BCENG.md)
 
 

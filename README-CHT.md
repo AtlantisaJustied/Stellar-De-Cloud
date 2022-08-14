@@ -28,4 +28,4 @@ userUID就是你的好友的UID，它會在右下角顯示，跟原版一樣。
 [简体中文](https://github.com/AtlantisaJustied/Stellar-De-Cloud/blob/main/README-CHS.md)
 繁體中文
 [日本語](https://github.com/AtlantisaJustied/Stellar-De-Cloud/blob/main/README-JPN.md)
-[English](https://github.com/AtlantisaJustied/Stellar-De-Cloud/blob/main/README%E3%83%BCENG.md)
+[English][https://github.com/AtlantisaJustied/Stellar-De-Cloud/blob/main/README-ENG.md]

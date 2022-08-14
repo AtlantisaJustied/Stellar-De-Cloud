@@ -27,6 +27,6 @@ The userUID is your friend's UID,It is displayed in the lower right corner,like 
 ---
 
 [简体中文](https://github.com/AtlantisaJustied/Stellar-De-Cloud/blob/main/README-CHS.md)
-[繁體中文](https://github.com/AtlantisaJustied/Stellar-De-Cloud/new/main?readme=1)
+[繁體中文](https://github.com/AtlantisaJustied/Stellar-De-Cloud/blob/main/README-CHT.md)
 [日本語](https://github.com/AtlantisaJustied/Stellar-De-Cloud/blob/main/README-JPN.md)
 English

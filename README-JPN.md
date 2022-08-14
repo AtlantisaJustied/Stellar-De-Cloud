@@ -3,9 +3,9 @@
 ### QQのグループ番号：[751458214](https://jq.qq.com/?_wv=1027&k=WcjiTs3p)
 ### Sponsor us! [ :sparkling_heart: Tab me to sponsor! :sparkling_heart: ](https://github.com/AtlantisaJustied/Stellar-De-Cloud/blob/main/%E6%8D%90%E8%B5%A0%E6%B8%A0%E9%81%93.md)
 ---
-わたしだちは自分のサーバーはありです！
+我々は自分のサーバーはありです！
 
-わたしだちのサーバーはこちのゲームをサポートです！
+我々のサーバーはこちのゲームをサポートです！
 
 - Minecraft Bedrock Edition 
 
